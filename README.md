@@ -15,5 +15,5 @@ This stack creates MariaDB Master Database using Gitops. Use this stack standalo
 ### What is Gitops?
 [Gitops](https://www.ecloudcontrol.com/category/gitops/)
 
-## Documentation: How to use MariaDB stack
+## Documentation: How to use MariaDB Master stack
 [MariaDB Master](https://docs.ecloudcontrol.com/mariadb-10.4_master/)
