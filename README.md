@@ -12,8 +12,8 @@ MariaDB is one of the most popular open source relational databases. AppZ curren
 
 This stack creates MariaDB Master Database using Gitops. Use this stack standalone or optionally add MariaDB slave Database for HA/DR.
 
-### What is Gitops?
-[Gitops](https://www.ecloudcontrol.com/category/gitops/)
+### What is GitOps?
+[GitOps](https://www.ecloudcontrol.com/category/gitops/)
 
 ## Documentation: How to use MariaDB Master stack
 [MariaDB Master](https://docs.ecloudcontrol.com/mariadb-10.4_master/)
