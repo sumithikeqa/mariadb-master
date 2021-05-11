@@ -1,5 +1,5 @@
 app:
-    name: mariadb Master
+    name: 
     code: mariadbmaster
     notify: sumit.bansal@hikeqa.com
 
