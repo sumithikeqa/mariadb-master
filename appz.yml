@@ -1,5 +1,5 @@
 app:
-    name: 
+    name: Test
     code: mariadbmaster
     notify: sumit.bansal@hikeqa.com
 
