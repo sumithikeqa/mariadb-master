@@ -1,7 +1,7 @@
 app:
     name: mariadb Master
     code: mariadbmaster
-    notify: 
+    notify: test500@yopmail.com
 build:
     version: 10.4
     env: DEV
