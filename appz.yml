@@ -5,8 +5,8 @@ app:
 
 build:
     version: 10.5
-    env: TEST
-    build_file: none
+    env: DEV
+    build_file: 
     output_files: output/*.zip
     image_template: mariadb_master-10.4
 
