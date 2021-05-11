@@ -11,7 +11,7 @@ build:
     image_template: mariadb_master-10.4
 
 deploy:
-    context: sumithikeqa/DEV
+    context: 
     type: statefulset
     replicas: 1
     port:
