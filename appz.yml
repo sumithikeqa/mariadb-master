@@ -28,9 +28,9 @@ volumes:
     size: 5Gi
   
 properties:
-    MYSQL_REPLICATION_USER: 
+    MYSQL_REPLICATION_USER: replication
     MYSQL_REPLICATION_PASSWORD:
-      vault: MYSQL_REPLICATION_PASSWORD
+      vault: 
     MYSQL_WORDPRESS_PASSWORD:
       vault: MYSQL_WORDPRESS_PASSWORD
     MYSQL_ROOT_PASSWORD:
