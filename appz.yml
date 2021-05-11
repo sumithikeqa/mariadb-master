@@ -1,9 +1,10 @@
 app:
     name: mariadb Master
     code: mariadbmaster
-    notify: test500@yopmail.com
+    notify: sumit.bansal@hikeqa.com
+
 build:
-    version: 10.4
+    version: 
     env: DEV
     build_file: none
     output_files: output/*.zip
