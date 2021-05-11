@@ -1,6 +1,6 @@
 app:
     name: mariadb Master
-    code: 
+    code: test
     notify: sumit.bansal@hikeqa.com
 
 build:
