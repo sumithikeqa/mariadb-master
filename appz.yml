@@ -13,9 +13,9 @@ build:
 deploy:
     context: sumithikeqa/DEV
     type: statefulset
-    replicas: 
+    replicas: 1
     port:
-    - 3306
+    - 
 
 volumes:
   - claim: mariadb-master-data
