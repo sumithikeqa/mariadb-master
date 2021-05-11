@@ -1,8 +1,7 @@
 app:
     name: mariadb Master
-    code: test
-    notify: sumit.bansal@hikeqa.com
-
+    code: mariadbmaster
+    notify: 
 build:
     version: 10.4
     env: DEV
