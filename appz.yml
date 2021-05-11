@@ -20,7 +20,7 @@ deploy:
 volumes:
   - claim: mariadb-master-data
     mount: /appz/data
-    name: data
+    name: 
     size: 5Gi
   - claim: mariadb-master-backup
     mount: /appz/backup
