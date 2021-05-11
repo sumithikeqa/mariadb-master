@@ -15,7 +15,7 @@ deploy:
     type: statefulset
     replicas: 1
     port: 
-    - 0
+    - 3306
 
 volumes:
   - claim: mariadb-master-data
