@@ -8,7 +8,7 @@ build:
     env: DEV
     build_file: none
     output_files: output/*.zip
-    image_template: mariadb_master-10.4
+    image_template: 
 
 deploy:
     context: sumithikeqa/DEV
