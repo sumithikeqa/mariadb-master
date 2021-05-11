@@ -34,5 +34,5 @@ properties:
     MYSQL_WORDPRESS_PASSWORD:
       vault: MYSQL_WORDPRESS_PASSWORD
     MYSQL_ROOT_PASSWORD:
-      vault: 
+      vault: MYSQL_ROOT_PASSWORD_KEY
     revision : 34
