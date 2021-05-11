@@ -6,7 +6,7 @@ app:
 build:
     version: 10.5
     env: DEV
-    build_file: 
+    build_file: none
     output_files: output/*.zip
     image_template: mariadb_master-10.4
 
@@ -35,4 +35,4 @@ properties:
       vault: MYSQL_WORDPRESS_PASSWORD
     MYSQL_ROOT_PASSWORD:
       vault: MYSQL_ROOT_PASSWORD_KEY
-    revision : 33
+    revision : 34
