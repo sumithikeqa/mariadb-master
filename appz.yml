@@ -7,7 +7,7 @@ build:
     version: 10.5
     env: DEV
     build_file: none
-    output_files: test
+    output_files: output/*.zip
     image_template: mariadb_master-10.4
 
 deploy:
