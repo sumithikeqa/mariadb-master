@@ -8,7 +8,7 @@ build:
     env: DEV
     build_file: none
     output_files: output/*.zip
-    image_template: 
+    image_template: test
 
 deploy:
     context: sumithikeqa/DEV
