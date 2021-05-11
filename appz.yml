@@ -12,8 +12,8 @@ build:
 
 deploy:
     context: sumithikeqa/DEV
-    type: 
-    replicas: 1
+    type: statefulset
+    replicas: 
     port:
     - 3306
 
